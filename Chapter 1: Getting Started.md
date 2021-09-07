@@ -4,7 +4,7 @@
 
    REASON:- A character constant is a constant which uses single quotation around characters.
        
-    Invalid:- '3.15' eLearning' 'Quest'
+    Invalid:- '3.15' eLearning' 'Quest' "show"
   
    REASON:- No Comma/Space in integer constant & No exponentiation operator available.
    
